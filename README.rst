@@ -2,8 +2,6 @@
 Qt Template
 =========================
 
-A brief description of the project and what it does.
-
 .. contents::
    :local:
 
